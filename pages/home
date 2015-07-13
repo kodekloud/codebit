@@ -303,7 +303,7 @@
 				            </div>
 						</div>
 						<div class="author">
-							<img src="images/testimonials/testimonial3.jpg" class="pic" alt="testimonial3" />
+							<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/testimonial3.jpg" class="pic" alt="testimonial3" />
 							<div class="name">John McClane</div>
 							<div class="company">Microsoft</div>
 						</div>
@@ -319,7 +319,7 @@
 				            </div>
 						</div>
 						<div class="author">
-							<img src="images/testimonials/testimonial2.jpg" class="pic" alt="testimonial2" />
+							<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/testimonial2.jpg" class="pic" alt="testimonial2" />
 							<div class="name">Karen Jones</div>
 							<div class="company">Pixar Co.</div>
 						</div>
@@ -347,11 +347,11 @@
 						These are some of our customers who have helped us by using our product.
 					</p>
 					<div class="logos">
-						<img src="images/logos/google.png">
-						<img src="images/logos/facebook.png">
-						<img src="images/logos/apple.png">
-						<img src="images/logos/stripe.png">
-						<img src="images/logos/yahoo.png">
+						<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/google.png">
+						<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/facebook.png">
+						<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/apple.png">
+						<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/stripe.png">
+						<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/yahoo.png">
 					</div>
 				</div>
 			</div>
@@ -432,16 +432,16 @@
 						</form>
 					</div>
 					<a href="#">
-						<img src="images/social/social-tw.png" alt="twitter" />
+						<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/social-tw.png" alt="twitter" />
 					</a>
 					<a href="#">
-						<img src="images/social/social-dbl.png" alt="dribbble" />
+						<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/social-dbl.png" alt="dribbble" />
 					</a>
 				</div>
 			</div>
 			<div class="row credits">
 				<div class="col-md-12">
-					Copyright © 2014. React
+					Copyright © 2015. Codebit
 				</div>
 			</div>
 		</div>
