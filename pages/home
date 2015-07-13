@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />	
-	<title>React - Bootstrap Theme</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<!-- stylesheets -->
-	<link href="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/bootstrap.min.css" rel="stylesheet">
-	<link href="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/theme.css" rel="stylesheet">
-	<link href="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/animate.css" rel="stylesheet">
-
-	<!-- javascript -->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/bootstrap.min.js"></script>
-	<script src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/theme.js"></script>
-
-	<!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-</head>
 <body id="home">
 	<header class="navbar navbar-inverse hero" role="banner">
   		<div class="container">
