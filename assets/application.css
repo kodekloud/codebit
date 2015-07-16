@@ -5,3 +5,7 @@
     margin-top: 0px;
     
 }
+
+.img {
+    background-image: url("../../images/static-hero.png");
+}
