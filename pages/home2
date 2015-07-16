@@ -258,7 +258,7 @@
 			var swiping = false;
 			var interval;
 			
-			var clock = $('.your-clock').FlipClock(3600 * 24 * 3, {
+			var clock = $('.your-clock').FlipClock(3600 * 24 * 45, {
 		clockFace: 'DailyCounter',
 		countdown: true
 	});
