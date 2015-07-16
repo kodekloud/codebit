@@ -34,7 +34,7 @@
 				Develop, manage, and host all your web apps in one place.<br>Get back to the code....no WYSIWYG no BS.
 			</p>
 			<div class="cta animated fadeInDown">
-			    <input type="text" class="form-control input-lg" placeholder="enter email">
+			    <input type="text" class="form-control input-lg" placeholder="enter email" style="width:200px">
 				<a href="features.html" class="button-outline">See the tour</a>
 				<a href="signup.html" class="button">Sign up free</a>
 			</div>
