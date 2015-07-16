@@ -28,7 +28,7 @@
 				Develop, manage, and host all your web apps in one place.<br>Get back to the code....no WYSIWYG no BS.
 			</p>
 			<div class="cta animated fadeInDown">
-			    <input type="text" class="input-lg" placeholder="email address" style="width:200px;height:52px">
+			    <input type="text" class="input-lg" placeholder="email address" style="width:200px;height:54px">
 				<a href="features.html" class="button-outline">Keep me posted</a>
 				
 			</div>
