@@ -193,6 +193,8 @@
 			</div>
 		</div>		
 	</div>
+	
+	<div class="st-pusher">
     <div class="st-content">
 	<div id="tabs">
 					<div class="container">
@@ -267,6 +269,7 @@
 						</div>
 					</div>
 				</div>
+    </div>
     </div>
 	<div id="features-hover">
 		<div class="container">
