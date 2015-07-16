@@ -193,7 +193,9 @@
 			</div>
 		</div>		
 	</div>
-	
+	<div id="home3">
+
+	<div class="st-container">
 	<div class="st-pusher">
     <div class="st-content">
 	<div id="tabs">
@@ -269,6 +271,8 @@
 						</div>
 					</div>
 				</div>
+    </div>
+    </div>
     </div>
     </div>
 	<div id="features-hover">
