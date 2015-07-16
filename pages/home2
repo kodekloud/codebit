@@ -1,6 +1,6 @@
 <body id="home2">
 	<header class="navbar navbar-inverse white" role="banner" style="height:140px">
-  		<div class="container">
+  		<div class="">
     		<div class="navbar-header">
 		      	<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
 			        <span class="icon-bar"></span>
