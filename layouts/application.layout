@@ -28,9 +28,7 @@
     
     <script>
         
-        var clock = new FlipClock($('.your-clock'), {
-// ... your options here
-});
+        
         
     </script>
 </head>
