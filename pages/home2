@@ -262,7 +262,7 @@
 						We are launching soon....like really soon....like, in 2 months.
 					</p>
 					<center>
-					<ul class="nav navbar-nav" style="margin-top:15px">
+					<ul class="nav" style="margin-top:15px">
       				<li>
       				    <input type="text" class="form-control input-lg">
       				</li>
