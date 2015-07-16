@@ -29,23 +29,7 @@
 					Codebit 2015
 				</div>
 				<div class="col-sm-6 menu">
-					<ul>
-	      				<li>
-	          				<a href="features.html">Features</a>
-	        			</li>
-	        			<li>
-	        				<a href="services.html">Services</a>
-	        			</li>
-	        			<li class="active">
-	          				<a href="pricing.html">Pricing</a>
-	        			</li>
-	        			<li>
-	          				<a href="support.html">Support</a>
-	        			</li>
-	        			<li>
-	          				<a href="blog.html">Blog</a>
-	        			</li>
-	      			</ul>
+					<p>Follow up on twitter</p>
 				</div>
 				<div class="col-sm-3 social">
 					<a href="#">
