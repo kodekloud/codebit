@@ -67,7 +67,7 @@
 				<div class="col-md-6 info">
 					<h4>Time is money...so it's all about Speed</h4>
 					<p>Speed comes in many forms and we are obsessed with all of them.<br>
-					<ul style="list-style-type: none;">
+					<ul style="list-style-type: none;padding-left:0;">
 					    <li style="list-style-type:none;">
 					        <b>Development Speed</b> - Ready to go templates with the web frameworks you want.No config, no deployments, no fuss....just code.
 					    </li>
