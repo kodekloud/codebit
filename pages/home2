@@ -67,7 +67,7 @@
 				<div class="col-md-6 info">
 					<h4>It's all about Speed</h4>
 					<p>Speed comes in many forms and we are obsessed with all of them.<br>
-					<ul>
+					<ul style="list-style-type: none;">
 					    <li>
 					        <b>Speed to develop</b> - Ready to go templates with the frameworks you want. Get down to the code in seconds
 					    </li>
