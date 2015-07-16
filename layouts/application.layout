@@ -18,6 +18,7 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/bootstrap.min.js"></script>
 	<script src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/theme.js"></script>
+	<script src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/7e0467c586b6dfae99a1d3ac47236e35/flipclock.min.js"></script>
 
 	<!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
