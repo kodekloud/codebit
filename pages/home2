@@ -154,8 +154,8 @@
 			</div>
 		</div>
 	</div>
-
-	<div id="features">
+    
+    <div id="features">
 		<div class="container">
 			<div class="row header">
 				<div class="col-md-12">
@@ -193,7 +193,7 @@
 			</div>
 		</div>		
 	</div>
-
+    <div class="st-content">
 	<div id="tabs">
 					<div class="container">
 						<div class="row header">
@@ -267,7 +267,7 @@
 						</div>
 					</div>
 				</div>
-
+    </div>
 	<div id="features-hover">
 		<div class="container">
 			<div class="row">
