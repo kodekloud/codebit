@@ -261,6 +261,7 @@
 					<p>
 						We are launching soon....like really soon....like, in 2 months.
 					</p>
+					<center>
 					<ul class="nav navbar-nav" style="margin-top:15px">
       				<li>
       				    <input type="text" class="form-control input-lg">
@@ -268,7 +269,8 @@
         			<li>
           				<a href="signup.html" class="signup visible-md visible-lg">Keep me posted!</a>
         			</li>
-      			</ul>
+      			    </ul>
+      			    </center>
 				</div>
 			</div>
 		</div>
