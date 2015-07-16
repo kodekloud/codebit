@@ -264,6 +264,25 @@
 					
 				</div>
 			</div>
+			<div class="row">
+			    <div class="col-md-4">
+			        
+			    </div>
+			    <div class="col-md-4">
+			        <center>
+					<span>
+      				    <input type="text" class="form-control input-lg">
+      				</span>
+        			<span>
+          				<a href="signup.html" class="btn btn-info visible-md visible-lg">Keep me posted!</a>
+        			</span>
+      			    
+      			    </center>
+			    </div>
+			    <div class="col-md-4">
+			        
+			    </div>
+			</div>
 		</div>
 	</div>
 	<script type="text/javascript">
