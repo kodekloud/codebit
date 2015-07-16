@@ -17,7 +17,7 @@
 	</header>
     <!--#hero-->
 	<div id="home">
-	<div id="hero" style="padding:0px">
+	<div id="hero" style="padding-bottom:0px">
 		<div class="container">
 			<h1 class="hero-text animated fadeInDown">
 				The website builder<br>
