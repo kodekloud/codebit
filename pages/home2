@@ -71,10 +71,10 @@
 					    <li style="list-style-type:none;">
 					        <b>Development Speed</b> - Ready to go templates with the web frameworks you want.No config, no deployments, no fuss....just code.
 					    </li>
-					    <li>
+					    <li style="list-style-type:none;">
 					        <b>Management Speed</b> - Publish content, edit code or manage settings in seconds.
 					    </li>
-					    <li>
+					    <li style="list-style-type:none;">
 					        <b>Hosting Speed</b> Rest assured your code and assets are hosted on the fasted CDNs in the world. 
 					    </li>
 					    
