@@ -67,7 +67,13 @@
 				<div class="col-md-6 info">
 					<h4>It's all about Speed</h4>
 					<p>Speed comes in many forms and we are obsessed with all of them.<br>
-						Speed to develop: Templates with the frameworks you want.Speed to manage: edit content or settings and publish in seconds
+					<ul>
+					    <li>
+					        Speed to develop: Templates with the frameworks you want.
+					    </li>
+					    
+					</ul>
+						Speed to manage: edit content or settings and publish in seconds
 						Speed to host: Rest assured your code and assets are hosted on the fasted CDNs in the world
 						
 					</p>
