@@ -261,15 +261,7 @@
 					<p>
 						We are launching soon....like really soon....like, in 2 months.
 					</p>
-					<center>
-					<span>
-      				    <input type="text" class="form-control input-lg">
-      				</span>
-        			<span>
-          				<a href="signup.html" class="btn btn-info visible-md visible-lg">Keep me posted!</a>
-        			</span>
-      			    
-      			    </center>
+					
 				</div>
 			</div>
 		</div>
