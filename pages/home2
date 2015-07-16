@@ -22,7 +22,7 @@
   		</div>
 	</header>
     <!--#hero-->
-	
+	<div id="home">
 	<div id="hero">
 		<div class="container">
 			<h1 class="hero-text animated fadeInDown">
@@ -38,6 +38,7 @@
 			</div>
 			<div class="img"></div>
 		</div>
+	</div>
 	</div>
     <!--#features-->
     <div id="features">
