@@ -163,12 +163,12 @@
 								  			</p>
 								  		</div>
 								  		<div class="col-md-6 image">
-								  			<img src="images/tabs/pic1.png" class="img-responsive" alt="pic1" />
+								  			<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/pic1.png" class="img-responsive" alt="pic1" />
 								  		</div>
 								  	</div>
 								  	<div class="tab-pane fade" id="profile">
 								  		<div class="col-md-6 image">
-								  			<img src="images/portfolioitem1.png" class="img-responsive" alt="pic2" />
+								  			<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/portfolioitem1.png" class="img-responsive" alt="pic2" />
 								  		</div>
 								  		<div class="col-md-6 info">
 								  			<h4>You don't need to have any advanced technical</h4>
@@ -188,12 +188,12 @@
 								  			</p>
 								  		</div>
 								  		<div class="col-md-6 image">
-								  			<img src="images/tabs/pic2.png" class="img-responsive" style="position: relative;top: 15px;" alt="pic3" />
+								  			<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/pic2.png" class="img-responsive" style="position: relative;top: 15px;" alt="pic3" />
 								  		</div>
 								  	</div>
 								  	<div class="tab-pane fade" id="settings">
 								  		<div class="col-md-6 image">
-								  			<img src="images/tabs/pic1.png" class="img-responsive" alt="pic4" />
+								  			<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/pic1.png" class="img-responsive" alt="pic4" />
 								  		</div>
 								  		<div class="col-md-6 info">
 								  			<h4>You don't need to have any advanced technical</h4>
