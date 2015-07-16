@@ -7,7 +7,7 @@
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 		      	</button>
-      			<a href="/" class="navbar-brand"><img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/7e0467c586b6dfae99a1d3ac47236e35/codebit_logo.png" class="" alt="" style="width:330px;margin-top:15px;padding-right:30px"></a>
+      			<a href="/" class="navbar-brand"><img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/7e0467c586b6dfae99a1d3ac47236e35/codebit_logo.png" class="" alt="" style="width:330px;margin-top:20px;padding-right:30px"></a>
     		</div>
     		<nav class="collapse navbar-collapse bs-navbar-collapse " role="navigation" style="margin-top:20px">
     		<div class="your-clock"></div>
