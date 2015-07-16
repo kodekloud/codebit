@@ -71,7 +71,7 @@
 					    <li style="list-style-type:none;padding-bottom:10px">
 					        <b>Development Speed</b> - Ready to go templates with the web frameworks you want. No config, no deployments, no fuss....just code.
 					    </li>
-					    <li style="list-style-type:none;">
+					    <li style="list-style-type:none;padding-bottom:10px">
 					        <b>Management Speed</b> - Publish content, edit code or manage settings in seconds. Preview changes and share with team members or clients before pusblishing.
 					    </li>
 					    <li style="list-style-type:none;">
