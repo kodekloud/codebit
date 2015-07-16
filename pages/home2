@@ -36,7 +36,7 @@
 			<div class="cta animated fadeInDown">
 			    <input type="text" class="form-control input-lg" placeholder="enter email" style="width:200px">
 				<a href="features.html" class="button-outline">Keep me posted</a>
-				<a href="signup.html" class="button">Sign up free</a>
+				
 			</div>
 			<div class="img"></div>
 		</div>
