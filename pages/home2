@@ -10,7 +10,7 @@
       			<a href="index.html" class="navbar-brand">React</a>
     		</div>
     		<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-      			<ul class="nav navbar-nav navbar-right" style="margin-top:10px">
+      			<ul class="nav navbar-nav navbar-right" style="margin-top:10px" id="cta">
       				<li>
       				    <input type="text" class="form-control input-lg">
       				</li>
