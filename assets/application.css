@@ -9,3 +9,12 @@
 #home #hero .img {
     background-image: url("http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/static-hero.png");
 }
+
+
+.divider {
+    height: 1px;
+    width: 100%;
+    background-color: #ddd;
+    position: relative;
+    margin: 70px 0 60px;
+}
