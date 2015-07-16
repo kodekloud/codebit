@@ -92,6 +92,7 @@
 	<!--#features list-->
 	<div id="second-option">
 					<div class="container">
+					<div class="divider"></div>
 						<div class="row">
 							<div class="col-md-4 feature">
 								<img src="images/circle-icons/one-color/creditcard.png" alt="creditcard" />
