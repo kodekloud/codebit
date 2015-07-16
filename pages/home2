@@ -258,9 +258,10 @@
 			var swiping = false;
 			var interval;
 			
-			var clock = new FlipClock($('.your-clock'), {
-// ... your options here
-});
+			var clock = $('.your-clock').FlipClock(3600 * 24 * 3, {
+		clockFace: 'DailyCounter',
+		countdown: true
+	});
 
 			$navDots.click(function (e) {
 				e.preventDefault();
