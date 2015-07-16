@@ -114,13 +114,13 @@
 						<div class="row">
 							<div class="col-md-4 feature">
 								<img src="images/circle-icons/one-color/support.png" alt="support" />
-								<strong>SaSS & .min Ready</strong>
+								<strong>SaSS & Minify you CSS/JS</strong>
 								<p>We're always happy to offer support if you happen to have any doubts about anything, if you need
 									some new stuff contact us.</p>
 							</div>
 							<div class="col-md-4 feature">
 								<img src="images/circle-icons/one-color/mail.png" alt="mail" />
-								<strong>Develop once, run everywhere</strong>
+								<strong></strong>
 								<p>We'll be adding some new stuff to make it even more awesome, if you have any idea please let us know.</p>
 							</div>
 							<div class="col-md-4 feature">
