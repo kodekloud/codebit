@@ -29,5 +29,6 @@
 #home #hero .cta a:hover {
     margin-right: 20px;
     padding: 15px 31px;
-     background-color: #4682B4
+     background-color: #4682B4;
+     font-weight:600;
 }
