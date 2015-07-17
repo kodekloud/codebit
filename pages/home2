@@ -264,7 +264,8 @@
 	
 	var clock = $('.your-clock2').FlipClock(3600 * 24 * 45, {
 		clockFace: 'DailyCounter',
-		countdown: true
+		countdown: true,
+		showSeconds: false
 	});
 
 			$navDots.click(function (e) {
