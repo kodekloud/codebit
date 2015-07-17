@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <a href="/" class="navbar-brand"><img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/7e0467c586b6dfae99a1d3ac47236e35/codebit_logo.png" class="" alt="" style="width:330px;margin-top:25px;padding-right:30px"></a>
+                <a href="/" class="navbar-brand"><img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/7e0467c586b6dfae99a1d3ac47236e35/codebit_logo.png" class="" alt="" style=""></a>
             </div>
             <div class="col-md-8">
               <div class="your-clock"></div>
