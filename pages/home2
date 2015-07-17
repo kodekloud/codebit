@@ -262,12 +262,7 @@
 	});
 	
 	
-	var clock = $('.your-clock2').FlipClock(3600 * 24 * 45, {
-		clockFace: 'DailyCounter',
-		countdown: true,
-		showSeconds: false,
-		showMinutes: false
-	});
+
 
 			$navDots.click(function (e) {
 				e.preventDefault();
