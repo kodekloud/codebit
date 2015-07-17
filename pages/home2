@@ -6,6 +6,7 @@
             </div>
             <div class="col-lg-9 col-md-9 col-sm-6 col-xs-6">
               <div class="your-clock hidden-xs hidden-sm" style="padding-top:20px;float:right"></div>
+              <span class="flip-clock-divider days"><span class="flip-clock-label">Days</span></span>
               <div class="your-clock-mobile hidden-lg hidden-md"></div>
             
             </div>
