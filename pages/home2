@@ -8,10 +8,10 @@
               <div class="your-clock hidden-xs hidden-sm" style="padding-top:20px;float:right"></div>
               
               <div class="hidden-lg hidden-md">
-                  
-              </div>
-              <span class="flip-clock-divider days"><span class="flip-clock-label">Days</span></span>
+                  <span class="flip-clock-divider days"><span class="flip-clock-label">Days</span></span>
               <div class="your-clock-mobile hidden-lg hidden-md"></div>
+              </div>
+              
             
             </div>
             
