@@ -267,6 +267,11 @@
 		        countdown: true
 	        });
 	        
+	        var clock = $('.your-clock').FlipClock(3600 * 24 * 45, {
+		        clockFace: 'DailyCounter',
+		        countdown: true
+	        });
+	        
 	        var clock = $('.your-clock-mobile').FlipClock(45, {
 		        clockFace: 'Counter'
         	});
