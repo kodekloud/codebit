@@ -257,9 +257,13 @@
 			var interval;
 			
 			var clock = $('.your-clock').FlipClock(3600 * 24 * 45, {
-		clockFace: 'DailyCounter',
-		countdown: true
-	});
+		        clockFace: 'DailyCounter',
+		        countdown: true
+	        });
+	        
+	        var clock = $('.counter').FlipClock(100, {
+		        clockFace: 'Counter'
+        	});
 	
 	
 
