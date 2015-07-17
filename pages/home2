@@ -6,6 +6,7 @@
             </div>
             <div class="col-lg-9 col-md-9 col-sm-10">
               <div class="your-clock hidden-xs hidden-sm" style="padding-top:20px;float:right"></div>
+              <div class="your-clock2 hidden-lg hidden-md" style="padding-top:20px;float:right"></div>
             
             </div>
             
