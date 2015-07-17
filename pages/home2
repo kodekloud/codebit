@@ -5,7 +5,7 @@
                 <a href="/"><img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/7e0467c586b6dfae99a1d3ac47236e35/codebit_logo.png" class="" alt="" style="max-width:290px;height:auto;padding-left:0px;padding-top:50px"></a>
             </div>
             <div class="col-lg-7 col-md-8 col-sm-8">
-              <div class="your-clock" style="padding-top:20px;float:right"></div>
+              <div class="your-clock hidden-xs" style="padding-top:20px;float:right"></div>
             
             </div>
             
