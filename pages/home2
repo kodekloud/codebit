@@ -6,7 +6,7 @@
             </div>
             <div class="col-lg-9 col-md-9 col-sm-6 col-xs-6">
               <div class="your-clock hidden-xs hidden-sm" style="padding-top:20px;float:right"></div>
-              <div class="your-closck hidden-xs hidden-lg hidden-md" style="padding-top:20px;float:right">ssss</div>
+              <div class="your-clock2 hidden-xs hidden-lg hidden-md" style="padding-top:20px;float:right">ssss</div>
               
               <div class="hidden-lg hidden-md hidden-sm" style="padding-top:20px;float:right">
                   <span class="flip-clock-label" style="padding-left:33px">Days to launch</span>
