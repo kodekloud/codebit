@@ -1,4 +1,10 @@
 <body id="home2">
+    <div class="container">
+        <div class="row">
+            
+            
+        </div>
+    </div>
 	<header class="navbar navbar-inverse white" role="banner" style="height:140px">
   		<div class="container">
     		<div class="navbar-header">
