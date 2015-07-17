@@ -261,7 +261,7 @@
 		        countdown: true
 	        });
 	        
-	        var clock = $('.your-clock-mobile').FlipClock(100, {
+	        var clock = $('.your-clock-mobile').FlipClock(45, {
 		        clockFace: 'Counter'
         	});
 	
