@@ -11,7 +11,7 @@
 				Develop, manage, and host all your websites in one place.<br>Get back to the code....no WYSIWYG no BS. <br>Launching soon!
 			</p>
 			<div class="cta animated fadeInDown">
-			    <input type="text" class="input-lg" placeholder="email address" style="width:300px;height:50px;margin-right:10px;margin-bottom:20px">
+			    <input type="text" class="input-lg" placeholder="email address" style="width:300px;height:55px;margin-right:10px;margin-bottom:20px">
 				<a href="features.html" class="button-outline">Keep me posted</a>
 				
 			</div>
