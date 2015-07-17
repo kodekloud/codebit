@@ -34,6 +34,8 @@
 </head>
 <body id="home2">
 {{yield}}
+</body>
+
 <footer>
 <div id="footer">
 		<div class="container">
