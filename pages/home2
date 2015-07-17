@@ -1,10 +1,10 @@
 <body id="home2">
     <div class="container" style="">
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-3">
+            <div class="col-lg-3 col-md-4 col-sm-3">
                 <a href="/" class=""><img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/7e0467c586b6dfae99a1d3ac47236e35/codebit_logo.png" class="" alt="" style="max-width:200px;height:auto;padding-top:20px;padding-bottom:20px;"></a>
             </div>
-            <div class="col-lg-8 col-md-8 col-sm-9">
+            <div class="col-lg-9 col-md-8 col-sm-9">
               <div class="your-clock hidden-xs" style="padding-top:20px;float:right"></div>
             
             </div>
