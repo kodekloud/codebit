@@ -8,7 +8,7 @@
               <div class="your-clock hidden-xs hidden-sm" style="padding-top:20px;float:right"></div>
               
               <div class="hidden-lg hidden-md" style="padding-top:20px;float:right">
-                  <span class="flip-clock-label" style="padding-left:80px">Days</span>
+                  <span class="flip-clock-label" style="padding-left:80px">Days to launch</span>
               <div class="your-clock-mobile hidden-lg hidden-md"></div>
               </div>
               
