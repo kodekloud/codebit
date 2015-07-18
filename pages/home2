@@ -252,8 +252,8 @@
 			var interval;
 			
 			
-			var d = new Date(2015,08,24,11,33,30,0);
-			
+			var launch_day = new Date(2015,08,24,11,33,30,0);
+			var days_left = days_between(new Date(),)
 			
 			var clock = $('.your-clock').FlipClock(3600 * 24 * 45, {
 		        clockFace: 'DailyCounter',
