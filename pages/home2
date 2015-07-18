@@ -252,7 +252,7 @@
 			var interval;
 			
 			
-			var launch_day = new Date(2015,8,01,11,33,30,0);
+			var launch_day = new Date(2015,8,02,11,33,30,0);
 			var days_left = days_between(new Date(),launch_day);
 			alert(days_left);
 			
