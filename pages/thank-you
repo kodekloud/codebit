@@ -1,5 +1,5 @@
 <div class="container" id="home">
-<div class="row" id="hero">
+<div class="row">
     <div class="md-col-12" style="min-height:500px">
         <div class="container">
 			<div class="row header">
