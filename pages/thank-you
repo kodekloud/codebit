@@ -1,7 +1,53 @@
 <div class="container">
 <div class="row">
     <div class="md-col-12" style="min-height:500px">
-        <h3>Thank You!! - This page needs to be better</h3>
+        <div class="container">
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Write the web code you want with the web frameworks you want</h2>
+					<p>Codebit puts the power back in the hands of developers.<br> Create the websites you want with the power of editing, managing, and hosting your sites in one place</p>
+				</div>
+			</div>
+			<div class="row feature">
+				<div class="col-md-7 info">
+					<h4>The power to choose your frameworks</h4>
+					<p>
+						From <a href="http://www.getbootstrap.com" target="_blank">Bootstrap</a> to Foundation, angular.js to backbone.js... you are in control. The web has never been more powerful, don't let other "website builders" write sloppy, boring, innefficient code for you. Build the sites you want with the tools you want. Drag and drop in any JS or CSS frameworks you want and get down to the code.
+					</p>
+					<p>
+						The web is changing....and fast. 3rd party Javascript libraries, CSS libraries and external services like Mail Chimp and Parse are redefining web development. Never have there been so many powerful tools to choose from when building a website. With CodeBit you have the power to import and integrate with any library you chose giving you and your visitors the best experience possible. 
+					</p>
+				</div>
+				<div class="col-md-5 image">
+					<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/73873303546a756f5aac5b2aecc063f4/Screen Shot 2015-07-20 at 3.37.28 PM.png" class="img-responsive" alt="feature1" />
+				</div>
+			</div>
+			<div class="divider"></div>
+			<div class="row feature backwards">
+				<div class="col-md-6 info">
+					<h4>It's all about Speed</h4>
+					<p>Speed comes in many forms and we are obsessed with all of them.<br>
+					<ul style="list-style-type: none;padding-left:0;">
+					    <li style="list-style-type:none;padding-bottom:10px">
+					        <b>Development Speed</b> - Ready to go templates with the web frameworks you want. No config, no deployments, no fuss....just code, the way you want it.
+					    </li>
+					    <li style="list-style-type:none;padding-bottom:10px">
+					        <b>Update Speed</b> - Publish content, edit code or manage settings in seconds. Preview changes and share with team members or clients before publishing.
+					    </li>
+					    <li style="list-style-type:none;">
+					        <b>Hosting Speed</b> - Rest assured your code, images and assets are hosted on the fasted CDNs in the world. We test our speeds to an obsessive degree.
+					    </li>
+					    
+					</ul>
+					</p>
+
+				</div>
+				<div class="col-md-6 image">
+					<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/73873303546a756f5aac5b2aecc063f4/Screen Shot 2015-07-20 at 3.42.01 PM.png" class="img-responsive" alt="feature2" />
+				</div>
+			</div>
+			<div class="divider"></div>
+		</div>	
     </div>
 </div>
 </div>
