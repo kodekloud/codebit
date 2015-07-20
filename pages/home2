@@ -11,6 +11,14 @@
 				Develop, manage, and host all your websites in one place.<br>Get back to the code....no WYSIWYG no BS. <br>Launching soon!
 			</p>
 			<div class="cta animated fadeInDown">
+			<form action="http://mobilefringe.createsend.com/t/d/s/ihdhty/" method="post" id="subForm">
+    
+        <label for="fieldEmail">Email</label><input id="fieldEmail" name="cm-ihdhty-ihdhty" type="email" required />
+    
+  
+        <button type="submit" class="button-outline">Keep Me Posted</button>
+  
+</form>
 			    <input type="text" class="input-lg" placeholder="email address" style="width:300px;height:55px;margin-right:10px;margin-bottom:20px;border:1px solid #FFF">
 				<a href="features.html" class="button-outline" style="">Keep me posted</a>
 				
