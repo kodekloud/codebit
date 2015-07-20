@@ -3,7 +3,7 @@
     <div class="md-col-12" style="min-height:500px">
         <div class="container">
 			<div class="row header">
-				<div class="col-md-12">
+				<div class="col-md-12" style="margin-top:60px">
 					<h2>Write the web code you want with the web frameworks you want</h2>
 					<p>Codebit puts the power back in the hands of developers.<br> Create the websites you want with the power of editing, managing, and hosting your sites in one place</p>
 				</div>
