@@ -106,7 +106,7 @@
 							<div class="col-md-4 feature">
 								<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/9685edb9d9687abc9684abd8aac5e93e/Clone-Sites-and-Manage%20Versions.png" alt="mail" style="width:50px"/>
 								<strong style="padding-left: 10px;">Clone Sites and Manage Versions </strong>
-								<p>We'll be adding some new stuff to make it even more awesome, if you have any idea please let us know.</p>
+								<p style="width: 265px; padding-left: 65px;">We'll be adding some new stuff to make it even more awesome, if you have any idea please let us know.</p>
 							</div>
 							<div class="col-md-4 feature">
 								<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/9685edb9d9687abc9684abd8aac5e93e/More-to-come.png" alt="locked"  style="width:50px"/>
