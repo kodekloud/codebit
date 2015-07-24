@@ -109,7 +109,7 @@
 								<p>We'll be adding some new stuff to make it even more awesome, if you have any idea please let us know.</p>
 							</div>
 							<div class="col-md-4 feature">
-								<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/9685edb9d9687abc9684abd8aac5e93e/More-to-come.png" alt="locked"  style="width:40px"/>
+								<img src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/9685edb9d9687abc9684abd8aac5e93e/More-to-come.png" alt="locked"  style="width:50px"/>
 								<strong>More to come...</strong>
 								<p>This thing will work on any device, it has a very easy to understand documentation and is made with SASS.</p>
 							</div>
