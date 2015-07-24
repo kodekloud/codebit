@@ -5,6 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />	
 	<title>Codebit - Launching this Fall</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="icon" href="/assets/codebit_icon.png">
 
 	<!-- stylesheets -->
 	<link href="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4af3f5629116142275a0d1d68f2859e/bootstrap.min.css" rel="stylesheet">
