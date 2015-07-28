@@ -25,15 +25,19 @@
     
 }
 
+#home {
+background-image: url("http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4b9853de5303a7ba84d55ee9d8b14a0/header-1-Recovered.jpg") !important;
+}
+
+#home2 #hero {
+background: none !important;
+}
 
 #home #hero .cta a:hover {
      background-color: #3b88b6;
      color:#FFF;
 }
 
-#home2 #hero .cta a:hover {
-     background-color: #3b88b6  !important;
-}
 
 .button-outline:hover{
     background-color: #4682B4;
