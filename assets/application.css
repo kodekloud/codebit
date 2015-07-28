@@ -31,6 +31,11 @@
      color:#FFF;
 }
 
+#home2 #hero .cta a:hover {
+     background-color: #3b88b6;
+     color:#FFF;
+}
+
 .button-outline:hover{
     background-color: #4682B4;
      color:#FFF;
