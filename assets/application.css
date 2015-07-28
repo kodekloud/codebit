@@ -43,6 +43,6 @@ h4{
 }
 
 h1{
-    text-transform: normal !important;
+    text-transform: none !important;
 }
 }
