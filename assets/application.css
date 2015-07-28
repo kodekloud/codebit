@@ -39,6 +39,10 @@ background-image: url("http://assets.kodekloud.io/sites/55a423256e6f644941000000
 "
 }
 
+#home2 #clients {
+    background: #262626; !important;
+
+
 .button-outline:hover{
     background-color: #4682B4;
      color:#FFF;
