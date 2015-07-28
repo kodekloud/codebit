@@ -3,9 +3,9 @@
 	<div id="hero" style="padding-top:50px">
 		<div class="container">
 			<h1 class="hero-text animated fadeInDown">
-				The website builder<br>
-				for developers<br>
-				by developers
+				The Website Builder<br>
+				for Developers<br>
+				by Developers
 			</h1>
 			<p class="sub-text animated fadeInDown">
 				Develop, manage, and host all your websites in one place.<br>Get back to the code....no WIX...no WYSIWYG... no BS. <br>Use any JS or CSS framework you want. <u><b>Launching soon!</b></u>
@@ -130,7 +130,7 @@
 					<div class="container">
 						<div class="row header">
 							<div class="col-md-12">
-								<h3>Built with teams in mind</h3>
+								<h3>Built with Teams in Mind</h3>
 								<p>As a seasoned software development team we know the power of a strong team.<br> From small teams to large..codebit is built for all kinds of teams and websites</p>
 							</div>
 						</div>
