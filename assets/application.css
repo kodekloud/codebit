@@ -32,7 +32,7 @@
 }
 
 #home2 #hero .cta a:hover {
-     background-color: #3b88b6;
+     background-color: #3b88b6  !important;
 }
 
 .button-outline:hover{
