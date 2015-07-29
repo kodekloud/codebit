@@ -3,7 +3,9 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />	
-	<title>{{meta-title}}</title>
+	<title>{{meta_title}}</title>
+	<meta name="description" content="{{meta_description}}" />
+    <meta name="keywords" content="{{meta_keywords}}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="icon" href="http://assets.kodekloud.io/sites/55a423256e6f644941000000/f43f7ec82793a61cdf90f51638ae8d1d/codecloud_fav.png">
 
