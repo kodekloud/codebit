@@ -62,8 +62,9 @@ h1 {
 
 
 @media (max-width: 400px) {
-    #home #hero .cta {
-    margin-top:30px;
+    #home #hero {
+     height:400px;   
+    }
 }
     
     
