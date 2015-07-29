@@ -69,10 +69,11 @@
 				
 				</div>
 				<div class="col-sm-3 social">
+				<!--
 					<a href="http://www.twitter.com" target="_blank" >
 						<img style="padding-top:10px; width:40px;" src="http://assets.kodekloud.io/sites/55a423256e6f644941000000/d4b9853de5303a7ba84d55ee9d8b14a0/twitter.png" alt="twitter" />
 					</a>
-
+-->
 				</div>
 			</div>
 		</div>
