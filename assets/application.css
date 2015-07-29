@@ -62,7 +62,9 @@ h1 {
 
 @media (max-width: 385px) {
     
-    
+    #clock{
+        display:none;
+    }
 }
 
 @media (max-width: 400px) {
