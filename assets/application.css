@@ -60,6 +60,10 @@ h1 {
     font-size: 40px !important;
 }
 
+@media (max-width: 385px) {
+    
+    
+}
 
 @media (max-width: 400px) {
     #home #hero {
