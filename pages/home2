@@ -136,14 +136,14 @@
 						<div class="row">
 							<div class="col-md-12 tabs-wrapper">
 								<ul class="nav nav-tabs">
-								  	<li class="active"><a href="#home" data-toggle="tab">Perfect for Landing Pages</a></li>
+								  	<li class="active"><a href="#home1" data-toggle="tab">Perfect for Landing Pages</a></li>
 								  	<li><a href="#profile" data-toggle="tab">Development & Marketing Teams</a></li>
 								  	<li><a href="#messages" data-toggle="tab">Digital Agencies</a></li>
 								  	<li><a href="#settings" data-toggle="tab">Personal Blogs & Social Pages</a></li>
 								</ul>
 
 								<div class="tab-content">
-								  	<div class="tab-pane fade in active" id="home">
+								  	<div class="tab-pane fade in active" id="home1">
 								  		<div class="col-md-6 info">
 								  			<h4>Perfect for Landing Pages</h4>
 								  			<p>
